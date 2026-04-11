@@ -10,6 +10,6 @@ class Solution {
                 i++;
             }
         }
-        return i == s.length();
+        return i ==
     }
 }
