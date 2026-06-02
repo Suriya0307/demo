@@ -8,6 +8,6 @@ class Solution3 {
             }
         }
 
-        return ;
+        return k ;
     }
 }
